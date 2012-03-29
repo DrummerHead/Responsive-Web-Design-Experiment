@@ -1,0 +1,200 @@
+/* magic CSS by DrummerHead */
+
+body,
+html {
+  padding: 0;
+  margin: 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 24px;
+  line-height: 32px;
+}
+#cozy-bed {
+  padding: 1em;
+  position: relative;
+  z-index: 5;
+}
+h1 {
+  position: relative;
+  z-index: 10;
+  text-align: center;
+  line-height: 1;
+  margin: 15px 0;
+  background-color: #fff;
+  -moz-box-shadow: 0 20px 15px #fff, 0 -20px 15px #fff;
+  -webkit-box-shadow: 0 20px 15px #fff, 0 -20px 15px #fff;
+  box-shadow: 0 20px 15px #fff, 0 -20px 15px #fff;
+}
+#nl {
+  width: 60px;
+  position: absolute;
+  left: 50%;
+  margin: 0 0 0 -30px;
+  padding: 0;
+  text-align: center;
+  list-style-type: none;
+  -o-transition: top 1s ease-in-out;
+  -moz-transition: top 1s ease-in-out;
+  -webkit-transition: top 1s ease-in-out;
+}
+#nl li {
+  height: 32px
+}
+em {
+  width: 100px;
+  height: 64px;
+  line-height: 60px;
+  position: absolute;
+  top: 270px;
+  left: 50%;
+  margin: 0 0 0 -52px;
+  text-indent: 117px;
+  font-weight: normal;
+  border: 4px solid green;
+}
+strong {
+  width: 60px;
+  height: 60px;
+  line-height: 60px;
+  position: absolute;
+  top: 140px;
+  right: 10px;
+  z-index: 40;
+  text-align: center;
+  border: 5px solid #a4b357;
+  border-radius: 55px;
+  font-size: 14px;
+  color: #fff;
+  text-shadow: 2px 2px 0 #6D7B22;
+
+  -webkit-transform: rotate(-30deg);
+     -moz-transform: rotate(-30deg);
+      -ms-transform: rotate(-30deg);
+       -o-transform: rotate(-30deg);
+          transform: rotate(-30deg);
+
+  background: #a4b357;
+  background:    -moz-linear-gradient(top, #a4b357 0%, #75890c 100%);
+  background:        -webkit-gradient(linear, left top, left bottom, color-stop(0%,#a4b357), color-stop(100%,#75890c));
+  background: -webkit-linear-gradient(top, #a4b357 0%, #75890c 100%);
+  background:      -o-linear-gradient(top, #a4b357 0%, #75890c 100%);
+  background:     -ms-linear-gradient(top, #a4b357 0%, #75890c 100%);
+  background:         linear-gradient(top, #a4b357 0%, #75890c 100%);
+}
+
+/* This would never happen in real life, take in account this is just a testy test showoff thing                   *\
+\* Some people have asked me if I wrote this by hand... don't worry, it was all generated :P (except custom cases) */
+
+@media ( min-width:1px ) { #nl{top: 274px;} h1{font-size: 42px;} }
+@media ( min-width:320px ) { #nl{top: 242px;} }
+@media ( min-width:340px ) { #nl{top: 210px;} }
+@media ( min-width:360px ) { #nl{top: 178px;} }
+@media ( min-width:380px ) { #nl{top: 146px;} }
+@media ( min-width:400px ) { #nl{top: 114px;} }
+@media ( min-width:420px ) { #nl{top: 82px;} h1{font-size: 24px;} }
+@media ( min-width:440px ) { #nl{top: 50px;} }
+@media ( min-width:460px ) { #nl{top: 18px;} }
+@media ( min-width:480px ) { #nl{top: -14px;} }
+@media ( min-width:500px ) { #nl{top: -46px;} }
+@media ( min-width:520px ) { #nl{top: -78px;} strong{top: 10px;} }
+@media ( min-width:540px ) { #nl{top: -110px;} }
+@media ( min-width:560px ) { #nl{top: -142px;} }
+@media ( min-width:580px ) { #nl{top: -174px;} }
+@media ( min-width:600px ) { #nl{top: -206px;} }
+@media ( min-width:620px ) { #nl{top: -238px;} }
+@media ( min-width:640px ) { #nl{top: -270px;} }
+@media ( min-width:660px ) { #nl{top: -302px;} }
+@media ( min-width:680px ) { #nl{top: -334px;} }
+@media ( min-width:700px ) { #nl{top: -366px;} h1{font-size: 38px; margin-top: 86px;} strong {width: 100px; height: 100px; line-height: 100px; font-size: 22px;} }
+@media ( min-width:720px ) { #nl{top: -398px;} }
+@media ( min-width:740px ) { #nl{top: -430px;} }
+@media ( min-width:760px ) { #nl{top: -462px;} }
+@media ( min-width:780px ) { #nl{top: -494px;} }
+@media ( min-width:800px ) { #nl{top: -526px;} strong{top: 30px; right: 30px;} }
+@media ( min-width:820px ) { #nl{top: -558px;} }
+@media ( min-width:840px ) { #nl{top: -590px;} }
+@media ( min-width:860px ) { #nl{top: -622px;} }
+@media ( min-width:880px ) { #nl{top: -654px;} }
+@media ( min-width:900px ) { #nl{top: -686px;} }
+@media ( min-width:920px ) { #nl{top: -718px;} }
+@media ( min-width:940px ) { #nl{top: -750px;} }
+@media ( min-width:960px ) { #nl{top: -782px;} h1{font-size: 44px;} }
+@media ( min-width:980px ) { #nl{top: -814px;} }
+@media ( min-width:1000px ) { #nl{top: -846px;} }
+@media ( min-width:1020px ) { #nl{top: -878px;} }
+@media ( min-width:1040px ) { #nl{top: -910px;} }
+@media ( min-width:1060px ) { #nl{top: -942px;} }
+@media ( min-width:1080px ) { #nl{top: -974px;} }
+@media ( min-width:1100px ) { #nl{top: -1006px;} }
+@media ( min-width:1120px ) { #nl{top: -1038px;} }
+@media ( min-width:1140px ) { #nl{top: -1070px;} }
+@media ( min-width:1160px ) { #nl{top: -1102px;} }
+@media ( min-width:1180px ) { #nl{top: -1134px;} }
+@media ( min-width:1200px ) { #nl{top: -1166px;} }
+@media ( min-width:1220px ) { #nl{top: -1198px;} }
+@media ( min-width:1240px ) { #nl{top: -1230px;} }
+@media ( min-width:1260px ) { #nl{top: -1262px;} }
+@media ( min-width:1280px ) { #nl{top: -1294px;} }
+@media ( min-width:1300px ) { #nl{top: -1326px;} }
+@media ( min-width:1320px ) { #nl{top: -1358px;} }
+@media ( min-width:1340px ) { #nl{top: -1390px;} }
+@media ( min-width:1360px ) { #nl{top: -1422px;} }
+@media ( min-width:1380px ) { #nl{top: -1454px;} }
+@media ( min-width:1400px ) { #nl{top: -1486px;} }
+@media ( min-width:1420px ) { #nl{top: -1518px;} }
+@media ( min-width:1440px ) { #nl{top: -1550px;} }
+@media ( min-width:1460px ) { #nl{top: -1582px;} }
+@media ( min-width:1480px ) { #nl{top: -1614px;} }
+@media ( min-width:1500px ) { #nl{top: -1646px;} }
+@media ( min-width:1520px ) { #nl{top: -1678px;} }
+@media ( min-width:1540px ) { #nl{top: -1710px;} }
+@media ( min-width:1560px ) { #nl{top: -1742px;} }
+@media ( min-width:1580px ) { #nl{top: -1774px;} }
+@media ( min-width:1600px ) { #nl{top: -1806px;} }
+@media ( min-width:1620px ) { #nl{top: -1838px;} }
+@media ( min-width:1640px ) { #nl{top: -1870px;} }
+@media ( min-width:1660px ) { #nl{top: -1902px;} }
+@media ( min-width:1680px ) { #nl{top: -1934px;} }
+@media ( min-width:1700px ) { #nl{top: -1966px;} }
+@media ( min-width:1720px ) { #nl{top: -1998px;} }
+@media ( min-width:1740px ) { #nl{top: -2030px;} }
+@media ( min-width:1760px ) { #nl{top: -2062px;} }
+@media ( min-width:1780px ) { #nl{top: -2094px;} }
+@media ( min-width:1800px ) { #nl{top: -2126px;} }
+@media ( min-width:1820px ) { #nl{top: -2158px;} }
+@media ( min-width:1840px ) { #nl{top: -2190px;} }
+@media ( min-width:1860px ) { #nl{top: -2222px;} }
+@media ( min-width:1880px ) { #nl{top: -2254px;} }
+@media ( min-width:1900px ) { #nl{top: -2286px;} }
+@media ( min-width:1920px ) { #nl{top: -2318px;} }
+@media ( min-width:1940px ) { #nl{top: -2350px;} }
+@media ( min-width:1960px ) { #nl{top: -2382px;} }
+@media ( min-width:1980px ) { #nl{top: -2414px;} }
+@media ( min-width:2000px ) { #nl{top: -2446px;} }
+@media ( min-width:2020px ) { #nl{top: -2478px;} }
+@media ( min-width:2040px ) { #nl{top: -2510px;} }
+@media ( min-width:2060px ) { #nl{top: -2542px;} }
+@media ( min-width:2080px ) { #nl{top: -2574px;} }
+@media ( min-width:2100px ) { #nl{top: -2606px;} }
+@media ( min-width:2120px ) { #nl{top: -2638px;} }
+@media ( min-width:2140px ) { #nl{top: -2670px;} }
+@media ( min-width:2160px ) { #nl{top: -2702px;} }
+@media ( min-width:2180px ) { #nl{top: -2734px;} }
+@media ( min-width:2200px ) { #nl{top: -2766px;} }
+@media ( min-width:2220px ) { #nl{top: -2798px;} }
+@media ( min-width:2240px ) { #nl{top: -2830px;} }
+@media ( min-width:2260px ) { #nl{top: -2862px;} }
+@media ( min-width:2280px ) { #nl{top: -2894px;} }
+@media ( min-width:2300px ) { #nl{top: -2926px;} }
+@media ( min-width:2320px ) { #nl{top: -2958px;} }
+@media ( min-width:2340px ) { #nl{top: -2990px;} }
+@media ( min-width:2360px ) { #nl{top: -3022px;} }
+@media ( min-width:2380px ) { #nl{top: -3054px;} }
+@media ( min-width:2400px ) { #nl{top: -3086px;} }
+@media ( min-width:2420px ) { #nl{top: -3118px;} }
+@media ( min-width:2440px ) { #nl{top: -3150px;} }
+@media ( min-width:2460px ) { #nl{top: -3182px;} }
+@media ( min-width:2480px ) { #nl{top: -3214px;} }
+@media ( min-width:2500px ) { #nl{top: -3246px;} }
+@media ( min-width:2520px ) { #nl{top: -3278px;} }
+@media ( min-width:2540px ) { #nl{top: -3310px;} }
+@media ( min-width:2560px ) { #nl{top: -3342px;} }

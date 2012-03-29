@@ -1,0 +1,11 @@
+From:
+http://mcdlr.com/
+
+See it live at:
+http://mcdlr.com/resp/
+
+This is a little experiment that I did while attending RubyConfUy 2011 for a lightning talk about Responsive Web Design.
+
+This experiment explicitly shows the capability of @media for content control over differently sized viewports; try resizing your browser window or accessing this page through your mobile device or tablet device.
+
+While it may seem this experiment makes use of Javascript, it does not :)
