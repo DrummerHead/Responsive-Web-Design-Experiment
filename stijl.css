@@ -81,8 +81,11 @@ strong {
   background:         linear-gradient(top, #a4b357 0%, #75890c 100%);
 }
 
-/* This would never happen in real life, take in account this is just a testy test showoff thing                   *\
-\* Some people have asked me if I wrote this by hand... don't worry, it was all generated :P (except custom cases) */
+/* This would never happen in real life, take in account this is just a testy test showoff thing                                 *\
+|* Some people have asked me if I wrote this by hand... don't worry, it was all generated :P (except custom cases)               *|
+|* Here you have a photo of the moment I was doing it, while attending a Ruby conference http://mcdlr.com/resp/creating-resp.jpg *|
+\* You can see that in the top part there's a script, that's the fella that generated all the stuff :P                           */
+
 
 @media ( min-width:1px ) { #nl{top: 274px;} h1{font-size: 42px;} }
 @media ( min-width:320px ) { #nl{top: 242px;} }
